@@ -44,9 +44,13 @@ You may opt out at any time by replying STOP to any message. For assistance, rep
 
 Data Sharing and Disclosure
 
-We do not sell, rent, or share your mobile information with third parties or affiliates for marketing or promotional purposes.
+We fully prohibit the transfer, sharing, or disclosure of consumer data to external organizations.
 
-No mobile information will be shared with third parties/affiliates for marketing or promotional purposes. Information sharing to subcontractors and service providers supporting business operations, such as scheduling systems, customer service platforms, contractors, or communication providers, is permitted. All other use case categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
+Consumer data, including mobile information and SMS consent data, will not be transferred, shared, or disclosed to external organizations.
+No exceptions apply for subcontractors, service providers, or other third parties.
+Your data will not be transferred to external organizations.
+The only exception is where disclosure is required by law.
+We are committed to protecting consumer data by ensuring it is not shared outside our organization under any circumstances other than as required by law.
 
 Data Security
 
